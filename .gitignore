@@ -1,0 +1,7 @@
+
+*.ini
+LAF/Saved/Config/Windows/Engine.ini
+LAF/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+*.log
+LAF/Saved/Autosaves/PackageRestoreData.json
+LAF/Saved/Autosaves/PackageRestoreData.json
