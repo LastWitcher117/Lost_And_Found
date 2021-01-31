@@ -826,3 +826,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-10.04.09:869][368]LogContentValidation: Display: Validating Texture2D /Game/Foto/tires.tires
 [2021.01.31-10.04.09:869][368]LogContentValidation: Display: Validating Texture2D /Game/Foto/tunnel.tunnel
 [2021.01.31-10.04.09:869][368]LogContentValidation: Display: Validating Texture2D /Game/Foto/weg.weg
+[2021.01.31-11.35.59:334][ 97]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\annsc\Downloads\coma endbild.jpg)
+[2021.01.31-11.35.59:353][ 97]LogTexture: Display: Building textures: coma_endbild (BGRA8, 352X235)
