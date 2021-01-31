@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.log
 *.ini
+LAF/Intermediate/CachedAssetRegistry.bin
+LAF/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+LAF/Saved/Logs/LAF.log
